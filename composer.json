@@ -4,6 +4,7 @@
     "type": "library",
     "minimum-stability": "dev",
     "prefer-stable": true,
+    "vendor/package": "1.0",
     "require": {
         "php": "^7.2 || ^8.0"
     },
