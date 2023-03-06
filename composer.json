@@ -1,5 +1,5 @@
 {
-    "name": "BraienStorm/bin-packer",
+    "name": "braienstorm/bin-packer",
     "description": "2D bin packing for PHP",
     "type": "library",
     "require": {
