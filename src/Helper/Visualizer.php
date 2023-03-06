@@ -1,6 +1,10 @@
 <?php
 namespace BraienStorm\BinPacker\Helper;
 
+use BraienStorm\BinPacker\Model\Block;
+use BraienStorm\BinPacker\Model\Node;
+use BraienStorm\BinPacker\Model\Bin;
+
 class Visualizer
 {
     private $image;

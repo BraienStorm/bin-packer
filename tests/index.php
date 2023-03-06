@@ -1,6 +1,6 @@
 <?php
 
-include_once '../vendor/autoload.php';
+include_once '../../../autoload.php';
 
 use BraienStorm\BinPacker\Model\Block;
 use BraienStorm\BinPacker\Model\Node;
