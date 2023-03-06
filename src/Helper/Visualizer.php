@@ -1,5 +1,5 @@
 <?php
-namespace BraienStorm\BinPacker\Helper;
+namespace braienstorm\BinPacker\Helper;
 
 class Visualizer
 {

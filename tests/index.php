@@ -1,10 +1,10 @@
 <?php
-namespace BraienStorm\BinPacker\Tests;
+namespace braienstorm\BinPacker\Tests;
 
-use BraienStorm\BinPacker\Model\Block;
-use BraienStorm\BinPacker\Model\Node;
-use BraienStorm\BinPacker\Model\Bin;
-use BraienStorm\BinPacker\Helper\Visualizer;
+use braienstorm\BinPacker\Model\Block;
+use braienstorm\BinPacker\Model\Node;
+use braienstorm\BinPacker\Model\Bin;
+use braienstorm\BinPacker\Helper\Visualizer;
 
 $Boxes = [];
 $data =  file_get_contents('ladak.json');

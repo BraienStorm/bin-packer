@@ -1,5 +1,5 @@
 <?php
-namespace BraienStorm\BinPacker\Model;
+namespace braienstorm\BinPacker\Model;
 
 class Block
 {
