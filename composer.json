@@ -1,0 +1,31 @@
+{
+    "name": "BraienStorm/bin-packer",
+    "description": "2D bin packing for PHP",
+    "type": "library",
+    "require": {
+        "php": "^7.2 || ^8.0"
+    },
+    "require-dev": {
+        "ext-imagick": "*"
+    },
+    "suggest": {
+        "ext-imagick": "To use the visualizer"
+    },
+    "autoload": {
+        "psr-4": {
+            "BraienStorm\\BinPacker\\" : "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "BraienStorm\\BinPacker\\Tests\\" : "tests"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dániel Pásthi",
+            "email": "eccosoft@gmail.com"
+        }
+    ]
+}
