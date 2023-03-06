@@ -2,6 +2,8 @@
     "name": "braienstorm/bin-packer",
     "description": "2D bin packing for PHP",
     "type": "library",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "require": {
         "php": "^7.2 || ^8.0"
     },
