@@ -12,7 +12,7 @@ $Boxes = [
     new Block(100, 100),
     new Block(300, 100),
 ];
-$bin = new Bin($l['witdh'],$l['height']);    
+$bin = new Bin(1500,3000);    
 $bin->insertManyBlock($Boxes);
 
 
@@ -72,7 +72,7 @@ Array
         $image->setFormat('jpg');
         $image->writeImage('bin.jpg');
 ```
-![Alt text](/docs/bin.jpg"a title")
+![visualizer](docs/bin.jpg)
 
 
 
