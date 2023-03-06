@@ -1,5 +1,5 @@
 <?php
-namespace braienstorm\BinPacker\Model;
+namespace BraienStorm\BinPacker\Model;
 
 class Bin
 {
